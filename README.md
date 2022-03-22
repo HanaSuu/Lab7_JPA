@@ -1,4 +1,4 @@
- # Lab7_JDBC
+ # Lab7_JPA
  *Xin Su*
 
  - This is a JPA-enabled web application connect with MariaDB.
